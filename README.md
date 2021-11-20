@@ -1,3 +1,3 @@
 # Morpion-Js_Vanille
 
-Morpion fait en Javascript Vanille
+Morpion ou Tic Tac Toe fait en Javascript Vanille
